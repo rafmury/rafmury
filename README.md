@@ -24,4 +24,4 @@ I'm a fullstack software engineer with a passion for building efficient, scalabl
 
 - **Email:** kariukimraphael@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/raphael-murimi-436688191/
-- **GitHub:** github.com/rafmury
+- **GitHub:** https://github.com/rafmury
