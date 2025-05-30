@@ -1,27 +1,41 @@
-# 👋 Hello, I'm RAPHAEL MURIMI KARIUKI
+# 👋 Hi, I'm Raphael Murimi Kariuki
 
-I'm a fullstack software engineer with a passion for building efficient, scalable, and reliable software solutions. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and bringing ideas to life.
+I'm a Full-Stack Software Engineer passionate about building efficient, scalable, and secure software solutions. With a strong foundation in both front-end and back-end technologies, I enjoy solving complex problems and turning ideas into impactful digital products.
 
-## 🔧 Technologies & Tools
+---
 
-- **Languages:** C, Python, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js,Python
-- **Frontend:** React, CSS,HTML,Javascript
-- **DevOps:** Docker, Kubernetes
-- **Version Control:** Git, GitHub, GitLab
+## 🔧 Tech Stack
 
-## 🌱 What I'm Currently Learning
+* **Languages:** C, Python, JavaScript, TypeScript
+* **Backend:** Node.js, Express.js, Flask, Python
+* **Frontend:** React, HTML, CSS, JavaScript
+* **DevOps & Tools:** Docker, Kubernetes, Git, GitHub, GitLab
 
-- Advanced system design and architecture.
-- Cloud-native development and serverless computing.
+---
 
-## 🚀 What I've Worked On
+## 🌱 Currently Learning
 
-- **AirBnB Clone - The Console**: A fullstack web application using Python for Backend Development, CSS,HTML and Javascript for Frontend Development and Shell for Shell Scripting to automate taSks.
-- **MyTube**: Developed and deployed a YouTube clone built with nodejs,expressjs and mongodb.
+* Advanced system design & software architecture
+* Cloud-native development & serverless computing
 
-## 📫 How to Reach Me
+---
 
-- **Email:** kariukimraphael@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/raphael-murimi-436688191/
-- **GitHub:** https://github.com/rafmury
+## 🚀 Projects
+
+* **ERP System – Nice Premium Millers:**
+  Designed and developed a custom ERP system for a maize milling company, integrating Odoo with a Flask API and React frontend. The system handles inventory, procurement, sales, HR, and real-time reporting, focusing on modularity and scalability.
+
+* **AirBnB Clone (Console-based):**
+  Developed a functional clone of the Airbnb console using Python, HTML, CSS, and JavaScript. Shell scripting was used to automate development and deployment tasks.
+
+* **MyTube:**
+  A YouTube clone built with Node.js, Express.js, and MongoDB. Designed and deployed with a focus on clean UI and RESTful API practices.
+
+---
+
+## 📫 Connect With Me
+
+* 📧 **Email:** [kariukimraphael@gmail.com](mailto:kariukimraphael@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/raphael-murimi-436688191](https://www.linkedin.com/in/raphael-murimi-436688191/)
+* 💻 **GitHub:** [github.com/rafmury](https://github.com/rafmury)
+* 
