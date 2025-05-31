@@ -38,4 +38,3 @@ I'm a Full-Stack Software Engineer passionate about building efficient, scalable
 * 📧 **Email:** [kariukimraphael@gmail.com](mailto:kariukimraphael@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/raphael-murimi-436688191](https://www.linkedin.com/in/raphael-murimi-436688191/)
 * 💻 **GitHub:** [github.com/rafmury](https://github.com/rafmury)
-* 
